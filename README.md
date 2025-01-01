@@ -32,9 +32,7 @@ A Spring Boot application to manage books where users can:
 
 ### Setup & Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/SarifulSarker/Book-Management.git
-   cd book-management
+ 
 Build the project:
 
 mvn clean install
